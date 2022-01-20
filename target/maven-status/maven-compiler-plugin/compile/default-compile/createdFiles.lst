@@ -1,0 +1,13 @@
+JavaService/Socket.class
+JavaService/responses/Hello.class
+JavaService/responses/Error.class
+JavaService/Ping.class
+JavaService/Message.class
+JavaService/requests/Hello.class
+JavaService/GsonRpc.class
+JavaService/ResponseMessage.class
+JavaService/responses/Info.class
+JavaService/RequestMessage.class
+JavaService/requests/Ping.class
+JavaService/requests/GoodBye.class
+JavaService/requests/Echo.class
